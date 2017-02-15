@@ -1,3 +1,7 @@
+/**
+   Enumeration class to represent a list of known allergens as a set
+   of bit masks.
+ */
 public enum Allergen {
     EGGS(1),
     PEANUTS(2),
